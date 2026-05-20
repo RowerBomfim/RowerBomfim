@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28039018/README.md)
 <div align="center">
 
 # Olá, eu sou o Rower Bomfim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -87,15 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rower's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RowerBomfim&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RowerBomfim&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
 ---
 
 <div align="center">
@@ -105,5 +95,8 @@
 **Obrigado por visitar meu perfil! Bora conectar?** 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rower-bomfim-77966b178/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rower.bomfim@hotmail.com)
 
 </div>
+
+
