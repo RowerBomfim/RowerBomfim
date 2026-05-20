@@ -9,6 +9,7 @@
   Apaixonado por construir softwares eficientes, escaláveis e bem estruturados — com foco em <strong>Backend Java</strong> e <strong>Cloud Computing (AWS)</strong>.
 </p>
 
+
 </div>
 
 ---
